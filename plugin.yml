@@ -1,0 +1,7 @@
+name: SharkReports
+version: 1.0
+Author: Numixe
+main: it.sharkcraft.reports.Reports
+commands:
+    report:
+        description: Report a player.
